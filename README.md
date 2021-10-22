@@ -1,5 +1,5 @@
 # Hello World, Michael Essien here...👋
-#### Aka. (Code_Junior)
+#### Aka: (Code_Junior)
 ##### essienmichael4@github.io
 
 
